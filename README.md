@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=capsule%20render)
-
 ## Hi there, I'm Suhyun👋
 ### hihi
 #### hihihi
@@ -8,6 +6,7 @@
 **codingsuhyun/codingsuhyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,13 +16,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![YouTube Badge](https://img.shields.io/badge/-@Dhruv%20Jain-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)](https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)
+
+[![YouTube Badge](https://img.shields.io/badge/-@s8inAT-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)](https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)
 [![Instagram Badge](https://img.shields.io/badge/-@sooo0oo__h-833AB4?style=flat-square&labelColor=833AB4&logo=instagram&logoColor=white&link=https://instagram.com/maddhruv)](https://instagram.com/sooo0oo__h) 
 [![Gmail Badge](https://img.shields.io/badge/tngus6053@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:tngus6053@gmail.com)
 
 <div align=center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodingsuhyun&count_bg=%23717FE3&title_bg=%23000000&icon=awesomelists.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<br>
+
   
 <picture>
   <source
