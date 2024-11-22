@@ -38,6 +38,8 @@ I'm an **undergraduate** in the **College of Art & Technology**, Chung-Ang Unive
 
 <br>
 
+### ✨Please contact me by e-mail for collaboration proposals. You are always welcome!✨
+
 ## [ Personal Projects ]
 
 (click the image or scan the QR)
