@@ -1,5 +1,4 @@
-# hi
-## Hi there 👋
+## Hi there, I'm Suhyun who likes to learn coding.👋
 ### hihi
 #### hihihi
 
