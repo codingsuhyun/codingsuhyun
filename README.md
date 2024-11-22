@@ -34,11 +34,9 @@ I'm an **undergraduate** in the **College of Art & Technology**, Chung-Ang Unive
 -Active Learning<br>
 -Keep trying until I find the way<br>
 -Communicate actively with colleagues<br>
--Accept feedback and fix the problems
-
-<br>
-
+-Accept feedback and fix the problems<br>
 ### ✨Please contact me by e-mail for collaboration proposals. You are always welcome!✨
+<br>
 
 ## [ Personal Projects ]
 
