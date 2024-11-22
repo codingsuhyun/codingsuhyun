@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-@sooo0oo__h-833AB4?style=flat-square&labelColor=833AB4&logo=instagram&logoColor=white&link=https://instagram.com/maddhruv)](https://instagram.com/sooo0oo__h) 
 [![Gmail Badge](https://img.shields.io/badge/tngus6053@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:tngus6053@gmail.com)
 
+
+
+<br>
+
 ## [ About me ]
 I'm an **undergraduate** in the **College of Art & Technology**, Chung-Ang University. 
 
@@ -32,12 +36,14 @@ I'm an **undergraduate** in the **College of Art & Technology**, Chung-Ang Unive
 
 (click the image or scan the QR)
 
-</div>
+
 
 <!-- 이미지 -->
 
 #### - this state of affairs game
 made with : Scratch / blockcoding
+<br>
+
 #### - professor game(VR game)
 made with : Cospaces / blockcoding
 
@@ -49,12 +55,14 @@ made with : Cospaces / blockcoding
   <img src=https://puffy-camp-2ba.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F57ad375c-06dd-4a74-980b-0a73388b769a%2Ffe67baf3-eb69-4253-a08c-30a42bdfe7a5%2FFinal_Project(Real)_QR.png?table=block&id=14643053-5336-8076-b15b-e04d38bcac17&spaceId=57ad375c-06dd-4a74-980b-0a73388b769a&width=480&userId=&cache=v2 alt="교수님 게임" width="150px" height="150px" />
 </a>
 
+</div>
 
 --------
 
 <!-- hit -->
 <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodingsuhyun&count_bg=%23717FE3&title_bg=%23000000&icon=awesomelists.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<br>
 <br>
 
 <!-- 깃허브 통계 -->
