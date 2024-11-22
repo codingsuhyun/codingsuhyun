@@ -35,9 +35,11 @@ I'm an **undergraduate** in the **College of Art & Technology**, Chung-Ang Unive
 
 <!-- 이미지 -->
 <div align="left">
-  <img src="![이시국게임]([https://github.com/user-attachments/assets/43cacfa7-1b58-435c-8bd9-c2d733182c4b](https://scratch.mit.edu/projects/538070716
-))
-0" alt="이시국게임" />
+  
+<a href="링크 URL">
+  <img src=https://puffy-camp-2ba.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F57ad375c-06dd-4a74-980b-0a73388b769a%2F85e771fb-036e-4814-8408-32e70f89ae13%2F%25E1%2584%258B%25E1%2585%25B5%25E1%2584%2589%25E1%2585%25B5%25E1%2584%2580%25E1%2585%25AE%25E1%2586%25A8%25E1%2584%2580%25E1%2585%25A6%25E1%2584%258B%25E1%2585%25B5%25E1%2586%25B71.png?table=block&id=14643053-5336-80c9-9636-e1b8e5c61c43&spaceId=57ad375c-06dd-4a74-980b-0a73388b769a&width=480&userId=&cache=v2 alt="이 시국 게임" width="150px" height="150px" />
+</a>
+
 </div>
 
 --------
