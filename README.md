@@ -29,7 +29,7 @@ I'm an **undergraduate** in the **College of Art & Technology**, Chung-Ang Unive
 **🌱 I’m currently learning and looking for help with...**
 <br>python, C++, javascript
 
-**❗an attitude of pursuit❗**
+**❗an attitude of pursuit **
 <br>
 -Active Learning<br>
 -Keep trying until I find the way<br>
