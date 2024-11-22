@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 ## [ About me ]
 I'm an **undergraduate** in the **College of Art & Technology**, Chung-Ang University. 
 
-**🤔 I'm currently interested in...**
-<br>programming, 3D modeling, video making (taking/editing), drawing, cartooning, photography, and making some off-the-wall games!
+#### **🤔 I'm currently interested in...**
+programming, 3D modeling, video making (taking/editing), drawing, cartooning, photography, and making some off-the-wall games!
 
-**🔭 I’m currently working on...**
-<br>Opensource Programming
+#### **🔭 I’m currently working on...**
+Opensource Programming
  
-**🌱 I’m currently learning and looking for help with...**
-<br>python, C++, javascript
+#### **🌱 I’m currently learning and looking for help with...**
+python, C++, javascript
 
-**❗an attitude of pursuit**
+**❗I try to have these kind of attitude...**
 <br>
 -Active Learning<br>
 -Keep trying until I find the way<br>
