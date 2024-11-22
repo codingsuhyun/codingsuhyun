@@ -29,6 +29,13 @@ I'm an **undergraduate** in the **College of Art & Technology**, Chung-Ang Unive
 **🌱 I’m currently learning and looking for help with...**
 <br>python, C++, javascript
 
+**❗an attitude of pursuit❗**
+<br>
+-Active Learning<br>
+-Exploring until you find your way<br>
+-Communicate actively with your colleagues<br>
+-Accept and fix feedback
+
 
 <br>
 
