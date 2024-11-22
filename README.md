@@ -32,8 +32,8 @@ I'm an **undergraduate** in the **College of Art & Technology**, Chung-Ang Unive
 **❗an attitude of pursuit❗**
 <br>
 -Active Learning<br>
--Exploring until you find your way<br>
--Communicate actively with your colleagues<br>
+-Keep trying until I find the way<br>
+-Communicate actively with colleagues<br>
 -Accept and fix feedback
 
 
