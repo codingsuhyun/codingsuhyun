@@ -40,20 +40,22 @@ I'm an **undergraduate** in the **College of Art & Technology**, Chung-Ang Unive
 
 ## [ Personal Projects ]
 
-(click the image or scan the QR)
+<span style="color:red;">(click the image or scan the QR)</span>
 
 
 
 <!-- 이미지 -->
 
 #### - this state of affairs game
-made with : Scratch / blockcoding
+made with : Scratch / blockcoding<br>
 _'You should throw masks at unmasked people to make them wear it. Cuz it's a serious state of affairs!'_
 <br>
 
 #### - professor game(VR game)
-made with : Cospaces / blockcoding
+made with : Cospaces / blockcoding<br>
 _'Make sure that all 15 students are ready to listen your lecture, so they don't miss a important message.'_
+<br>
+<br>
 
 <a href="https://scratch.mit.edu/projects/538070716">
   <img src=https://puffy-camp-2ba.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F57ad375c-06dd-4a74-980b-0a73388b769a%2F85e771fb-036e-4814-8408-32e70f89ae13%2F%25E1%2584%258B%25E1%2585%25B5%25E1%2584%2589%25E1%2585%25B5%25E1%2584%2580%25E1%2585%25AE%25E1%2586%25A8%25E1%2584%2580%25E1%2585%25A6%25E1%2584%258B%25E1%2585%25B5%25E1%2586%25B71.png?table=block&id=14643053-5336-80c9-9636-e1b8e5c61c43&spaceId=57ad375c-06dd-4a74-980b-0a73388b769a&width=480&userId=&cache=v2 alt="이 시국 게임" width="150px" height="150px" />
@@ -67,6 +69,8 @@ _'Make sure that all 15 students are ready to listen your lecture, so they don't
 
 
 ## [ State ]
+
+<br>
 </div>
 <!-- hit -->
 <div align="center">
@@ -86,6 +90,8 @@ _'Make sure that all 15 students are ready to listen your lecture, so they don't
   />
   <img src="https://github-readme-stats.vercel.app/api?username=codingsuhyun&show_icons=true" />
 </picture>
+
+<br>
 
 ------
 if you like the things I do, maybe consider buying me a coffee...☕️<br>
