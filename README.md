@@ -1,4 +1,6 @@
-## Hi there, I'm Suhyun who likes to learn coding.👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=capsule%20render)
+
+## Hi there, I'm Suhyun👋
 ### hihi
 #### hihihi
 
@@ -22,4 +24,14 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/tngus6053@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:tngus6053@gmail.com)
 
 <div align=center>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodingsuhyun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=codingsuhyun&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=codingsuhyun&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=codingsuhyun&show_icons=true" />
+</picture>
