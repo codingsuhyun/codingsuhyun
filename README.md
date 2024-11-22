@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![YouTube Badge](https://img.shields.io/badge/-@s8inAT-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)](https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)
+[![YouTube Badge](https://img.shields.io/badge/-@su8inAT-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=[https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A](http://www.youtube.com/@su8inAT))](http://www.youtube.com/@su8inAT)
 [![Instagram Badge](https://img.shields.io/badge/-@sooo0oo__h-833AB4?style=flat-square&labelColor=833AB4&logo=instagram&logoColor=white&link=https://instagram.com/maddhruv)](https://instagram.com/sooo0oo__h) 
 [![Gmail Badge](https://img.shields.io/badge/tngus6053@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:tngus6053@gmail.com)
 
