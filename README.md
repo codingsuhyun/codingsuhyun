@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/tngus6053@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:tngus6053@gmail.com)
 
 
-
-<br>
-
 ## [ About me ]
 I'm an **undergraduate** in the **College of Art & Technology**, Chung-Ang University. 
 
@@ -92,7 +89,10 @@ _'Make sure that all 15 students are ready to listen your lecture, so they don't
 </picture>
 
 <br>
+<br>
 
-------
-if you like the things I do, maybe consider buying me a coffee...☕️<br>
+
+if you like the things I do, maybe consider buying me a coffee...☕️
+<br>
+<br>
 <a href="https://buymeacoffee.com/codingsuhyun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
